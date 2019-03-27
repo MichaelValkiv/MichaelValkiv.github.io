@@ -1,0 +1,20 @@
+{
+  "TITLE": "Кава",
+  "HOME": "Домашня Сторінка",
+  "NEWS": "Новини",
+  "PRODUCTS": "Продукція",
+  "ABOUT": "Про Сайт",
+  "ABOUT_USER": "Профіль",
+  "PREFERENCES": "Налаштування",
+  "LOG_IN": "Вхід",
+  "ENGLISH": "Англійська",
+  "POLISH": "Польська",
+  "UKRAINIAN": "Українська",
+  "LOGIN_WELCOME": "Zapraszamy do",
+  "LOGIN_TITLE": "Welcome to Coffee Products",
+  "LOGIN_HELP": "Use your Login and Password to sign in or create one now",
+  "USERNAME": "Username",
+  "PASSWORD": "Hasło",
+  "REGISTER": "Register",
+  "REMEMBER_ME": "Zapamiętaj mnie"
+}
